@@ -43,11 +43,12 @@
 
 장애물을 피하며 달리거나 도깨비들의 공격을 피하며 공격해야한다
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 <p align="center">
 <img width="300" height="270" alt="image" src="https://github.com/user-attachments/assets/b6753fe2-70b4-47bd-9c2b-b29f002faa9e" />
 <img width="300" height="270" alt="image" src="https://github.com/user-attachments/assets/c3effaa0-b737-4961-b9aa-781d0b9aa282" />
 </p>
+
 **보스 도깨비**
 
 스토리 모드에서 등장하는 주요 적.

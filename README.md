@@ -1,5 +1,20 @@
 # 도깨비 캡쳐: 애매먕량 대질주
 
--동명의 웹툰 ‘도깨비 캡쳐’를 기반으로 한국의 도깨비 설화들을 재해석하여 2D 러닝 액션 게임을 녹여냈다.한 손으로 가능한 간단한 조작과 대중에게 친숙한 도깨비라는 설정을 이용해 남녀노소에게 플레이 가능하게 제공하였습니다
+- 동명의 웹툰 ‘도깨비 캡쳐’를 기반으로 한국의 도깨비 설화들을 재해석하여 2D 러닝 액션 게임을 녹여냈다.한 손으로 가능한 간단한 조작과 대중에게 친숙한 도깨비라는 설정을 이용해 남녀노소에게 플레이 가능하게 제공하였습니다
 
 <img width="1998" height="1125" alt="image" src="https://github.com/user-attachments/assets/036f27b1-d2c3-45d4-a4ce-42150872cd01" />
+
+<br>
+
+---
+
+<br>
+
+###  프로젝트 기능
+
+<p align="center">
+<img width="30%" height="676" alt="image" src="https://github.com/user-attachments/assets/34704095-5d5a-443c-806e-92c1d37e9821" />
+<img width="30%" height="676" alt="image" src="https://github.com/user-attachments/assets/fd8bff85-e74f-4e6c-b355-148d0075483d" />
+<img width="30%" height="676" alt="image" src="https://github.com/user-attachments/assets/2b0e012c-2c34-47df-ab7a-b9907d3c8455" />
+</p>
+

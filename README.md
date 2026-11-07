@@ -34,8 +34,6 @@
 
 ### 2. 인게임 요소
 <p align="center">
-<img width="50%" height="373" alt="image" src="https://github.com/user-attachments/assets/fa2deec2-b601-4c62-baf2-8eb65660728a" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="50%" height="373" alt="image" src="https://github.com/user-attachments/assets/a1839111-d8f0-4b7a-a1a2-997035188bef" />
-
+<img width="417" height="373" alt="image" src="https://github.com/user-attachments/assets/491e3267-9d7c-4aac-b22d-ba691e8ee86d" />
+<img width="414" height="373" alt="image" src="https://github.com/user-attachments/assets/c346e94e-9acf-4d3c-8bf3-89d396263097" />
 </p>

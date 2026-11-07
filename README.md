@@ -47,6 +47,11 @@
 
 <img width="300" height="270" alt="image" src="https://github.com/user-attachments/assets/c3effaa0-b737-4961-b9aa-781d0b9aa282" />
 
+
+
+
+
+
 **보스 도깨비**
 
 스토리 모드에서 등장하는 주요 적.

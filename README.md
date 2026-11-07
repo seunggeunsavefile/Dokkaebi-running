@@ -10,15 +10,10 @@
 
 <br>
 
-###  프로젝트 기능
+##  프로젝트 기능
 
-<br>
 
----
-
-<br>
-
-# 1.모드
+### 1.모드
 <p align="center">
 <img width="30%" height="676" alt="image" src="https://github.com/user-attachments/assets/34704095-5d5a-443c-806e-92c1d37e9821" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,4 +26,4 @@
 - 스토리를 감상하고 보스 도깨비와 겨루는 **스토리 모드**
 - 꾾임없이 생성되는 장애물을 피해 최대한 높은 점수를 획득하는 **아케이드 모드**
 
-# 2. 인게임 요소
+### 2. 인게임 요소

@@ -39,14 +39,11 @@
 <img width="300" height="270" alt="image" src="https://github.com/user-attachments/assets/c346e94e-9acf-4d3c-8bf3-89d396263097" />
 </p>
 
-<p><strong>플레이어가 조작하는 캐릭터입니다.</strong><br>
-장애물을 피해 달리고, 도깨비의 공격을 피하거나 반격합니다.</p>
+**플레이어 캐릭터** 
 
-<table>
-  <tr><th>조작</th><th>키</th></tr>
-  <tr><td>점프</td><td>Space Bar</td></tr>
-  <tr><td>슬라이드</td><td>왼쪽 Ctrl</td></tr>
-  <tr><td>공격</td><td>C</td></tr>
-</table>
+플레이어가 조작하는 캐릭터.
+
+장애물을 피하며 달리거나 도깨비들의 공격을 피하며 공격해야한다
+
 
 

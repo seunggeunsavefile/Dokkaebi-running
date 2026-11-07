@@ -12,6 +12,13 @@
 
 ###  프로젝트 기능
 
+<br>
+
+---
+
+<br>
+
+#1.모드
 <p align="center">
 <img width="30%" height="676" alt="image" src="https://github.com/user-attachments/assets/34704095-5d5a-443c-806e-92c1d37e9821" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -20,3 +27,8 @@
 <img width="30%" height="676" alt="image" src="https://github.com/user-attachments/assets/2b0e012c-2c34-47df-ab7a-b9907d3c8455" />
 </p>
 
+- 게임의 조작을 배우는 **튜토리얼**
+- 스토리를 감상하고 보스 도깨비와 겨루는 **스토리 모드**
+- 꾾임없이 생성되는 장애물을 피해 최대한 높은 점수를 획득하는 **아케이드 모드**
+
+#2. 인게임 요소
